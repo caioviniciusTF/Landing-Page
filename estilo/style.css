@@ -23,6 +23,7 @@
 
 header {
     height: 200px;
+    min-width: 400px;
     text-align: center;
     font-family: var(--fonte3);
     color: white;
